@@ -1,16 +1,25 @@
-## My Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nick+Kevin!;I'm+a+learning+developer,And+I;wanna+be+a+front+end+developer+is+my+dream;I+do+everything;to+achieve+it)](https://git.io/typing-svg)
+<p align="center"><a href="https://app.daily.dev/Nick-kevin"><img src="https://api.daily.dev/devcards/53867af2c59c401c95b44a6da6c0248d.png?r=3z4" width="200" alt="Nick Kevin's Dev Card"/></a></p>
+
+## Tools and technologies (My favourites are animated)
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+  <tr>
+    <th>
+      UI/UX design
+    </th>
+  </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="48" height="48" />
       <br>Figma
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    </tr>
+  </tr>
+  <tr>
+    <th>
+      Front end
+    </th>
+  </tr>
   <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -20,8 +29,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    </tr>
-    <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -30,8 +41,13 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
+    <th>
+      Back end
+    </th>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
@@ -40,18 +56,20 @@
         <img src="./img/codeigniter.png" width="48" height="48" alt="codeigniter" style="background-color: black; border-radius: 8px" />
       <br>Codeigniter
     </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
-      </td>
-      <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
         <img src="./img/typeorm.png" width="48" height="48" alt="typeorm" style="background-color: white; border-radius: 8px" />
       <br>TypeORM
     </td>
-    </tr>
+  </tr>
+  <tr>
+    <th>
+      Database and SGBD
+    </th>
+  </tr>
     <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -62,6 +80,11 @@
       <br>PostgreSQL
     </td>
  </tr>
+ <tr>
+    <th>
+      Others
+    </th>
+  </tr>
  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -76,6 +99,7 @@
 <br><br>
 </div>
 
+<p>Visitors:</p><img src="https://profile-counter.glitch.me/Nick-Kevin/count.svg">
 <div> 
   <p align="center">
     <a href="#"><img title="Snake animation" src="./img/snake.svg">
