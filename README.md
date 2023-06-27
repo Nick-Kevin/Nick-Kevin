@@ -97,7 +97,7 @@
   </tr>
 </table>
 <br><br>
-</divdi
+</div>
 
 ## You can contact and follow me on
 <p align="start">
