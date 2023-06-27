@@ -98,6 +98,14 @@
 </table>
 <br><br>
 </div>
+<br><br>
+
+## You can contact and follow me on
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100010962524435"><img src="https://img.icons8.com/color/96/000000/facebook.png" width="35" height="35" alt="facebook"/></a>
+  <a href="https://instagram.com/nick_kevin_rzf?igshid=ZGUzMzM3NWJiOQ=="><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="35" height="35" alt="instagram"/></a>
+  <a href="https://www.linkedin.com/in/nick-kevin-razafinirina-988b34248"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="35" height="35" alt="linkedin"/></a>
+</p>
 
 <p>Visitors:</p><img src="https://profile-counter.glitch.me/Nick-Kevin/count.svg">
 <div> 
