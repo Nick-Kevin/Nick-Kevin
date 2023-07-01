@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nick+Kevin!;I'm+a+learning+developer,And+I;wanna+be+a+front+end+developer+is+my+dream;I+do+everything;to+achieve+it)](https://git.io/typing-svg)
-<p align="center"><a href="https://app.daily.dev/Nick-kevin"><img src="https://api.daily.dev/devcards/53867af2c59c401c95b44a6da6c0248d.png?r=3z4" width="200" alt="Nick Kevin's Dev Card"/></a></p>
+# React | Javascript | Codeiginter Developper
+- 🔭 Learning developer however have some experience designing and bulding scalable web applications
+- 🌱 Passionate and obsessed with design and front-end but able to perform back-end tasks
+<br>
+<p align="center">
+  <img src="./img/izuku.gif" alt="Izuku Midoria"/>
+</p>
+
 
 ## Tools and technologies (My favourites are animated)
 <div style="display: flex; align-items: flex-start; align: center">
