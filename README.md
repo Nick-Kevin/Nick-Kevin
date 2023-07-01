@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nick+Kevin!;I'm+a+learning+developer,And+I;wanna+be+a+front+end+developer+is+my+dream;I+do+everything;to+achieve+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nick+Kevin!)](https://git.io/typing-svg)
 # React | Javascript | Codeiginter Developper
 - 🔭 Learning developer however have some experience designing and bulding scalable web applications
 - 🌱 Passionate and obsessed with design and front-end but able to perform back-end tasks
