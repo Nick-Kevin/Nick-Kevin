@@ -105,7 +105,6 @@
 </table>
 <br><br>
 </div>
-<br><br>
 
 ## You can contact and follow me on
 <p align="start">
@@ -114,7 +113,8 @@
   <a href="https://www.linkedin.com/in/nick-kevin-razafinirina-988b34248"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="48" height="48" alt="linkedin"/></a>
 </p>
 
-<p>Visitors:</p><img src="https://profile-counter.glitch.me/Nick-Kevin/count.svg">
+## Visitors:
+<img src="https://profile-counter.glitch.me/Nick-Kevin/count.svg">
 <div> 
   <p align="center">
     <a href="#"><img title="Snake animation" src="./img/snake.svg">
