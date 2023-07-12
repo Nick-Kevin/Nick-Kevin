@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <th>
+    <th colspan="3" style="text-align: center;">
       UI/UX design
     </th>
   </tr>
@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <th>
+    <th colspan="3" style="text-align: center;">
       Front end
     </th>
   </tr>
@@ -40,6 +40,8 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -50,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <th>
+    <th colspan="3" style="text-align: center;">
       Back end
     </th>
   </tr>
@@ -67,13 +69,15 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="./img/typeorm.png" width="48" height="48" alt="typeorm" style="background-color: white; border-radius: 8px" />
       <br>TypeORM
     </td>
   </tr>
   <tr>
-    <th>
+    <th colspan="3" style="text-align: center;">
       Database and SGBD
     </th>
   </tr>
@@ -88,7 +92,7 @@
     </td>
  </tr>
  <tr>
-    <th>
+    <th colspan="3" style="text-align: center;">
       Others
     </th>
   </tr>
@@ -122,4 +126,4 @@
   </p>
 </div>
 <br>
-Last Edited on: 01/07/2023
+Last Edited on: 12/07/2023
