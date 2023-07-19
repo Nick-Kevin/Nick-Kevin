@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="3" style="text-align: center;">
+    <th colspan="3" style="text-align: center; font-size: calc(1.1rem + 5px);">
       Back end
     </th>
   </tr>
