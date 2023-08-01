@@ -8,8 +8,8 @@
 </p>
 
 <style>
-  .f5 {
-    font-size: calc(1.1rem + 12px);
+  .my-fs {
+    font-size: calc(1.1rem + 12px) !important;
   }
 </style>
 
@@ -17,7 +17,7 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <th colspan="3" style="">
+    <th colspan="3" class="my-fs" style="text-align: center;" >
       UI/UX design
     </th>
   </tr>
