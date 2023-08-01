@@ -12,7 +12,7 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <th colspan="3" style="text-align: center; font-size: calc(1.5rem + 20px);">
+    <th colspan="3" style="text-align: center; font-size: calc(3rem + 50px);">
       UI/UX design
     </th>
   </tr>
