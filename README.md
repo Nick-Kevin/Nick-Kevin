@@ -7,6 +7,11 @@
   <img src="./img/izuku.gif" alt="Izuku Midoria"/>
 </p>
 
+<style>
+  .f5 {
+    font-size: calc(1.1rem + 12px);
+  }
+</style>
 
 ## Tools and technologies (My favourites are animated)
 <div style="display: flex; align-items: flex-start; align: center">
