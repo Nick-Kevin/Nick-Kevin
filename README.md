@@ -40,17 +40,12 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   </p>
   <br>
-      Others
-    
-  
- 
-    
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    
-     
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+      
+#### Others
+ <p>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
+ </p>
 
 <br><br>
 
