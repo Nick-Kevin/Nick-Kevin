@@ -7,17 +7,11 @@
   <img src="./img/izuku.gif" alt="Izuku Midoria"/>
 </p>
 
-<style>
-  .my-fs {
-    font-size: calc(1.1rem + 12px) !important;
-  }
-</style>
-
 ## Tools and technologies (My favourites are animated)
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <th colspan="3" class="my-fs" style="text-align: center;" >
+    <th colspan="3" style="">
       UI/UX design
     </th>
   </tr>
