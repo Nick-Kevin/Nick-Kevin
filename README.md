@@ -29,7 +29,7 @@
 <p><strong>Back end</strong></p>
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/codeigniter-%7623B124.svg?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
+    <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" alt="Express">
   </p>
@@ -46,7 +46,8 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/vs%code-007ACC?style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/sublime%20text-FF9800?style=for-the-badge&amp;logo=sublimetext&amp;logoColor=white" alt="Sublime text">
  </p>
 
 <br><br>
