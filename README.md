@@ -8,9 +8,8 @@
 </p>
 
 ## Tools and technologies
-<br>
 
-<h4><strong>UI/UX Design</strong></h4>
+<p><strong>UI/UX Design</strong></p>
   <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
   </p>
@@ -45,6 +44,9 @@
  <p>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/vs%code-007ACC?style=for-the-badge&amp;logo=Visual Studio Code&amp;logoColor=white" alt="VS Code">
  </p>
 
 <br><br>
