@@ -7,7 +7,7 @@
   <img src="./img/izuku.gif" alt="Izuku Midoria"/>
 </p>
 
-## Tools and technologies (My favourites are animated)
+## Tools and technologies
 <br>
 
 #### UI/UX Design
