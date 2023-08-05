@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
   </p>
 
-<h4><strong>Front end</strong></h4>
+<p><strong>Front end</strong></p>
   <p align="start">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux"> 
   </p>
 
-<h4><strong>Back end</strong></h4>
+<p><strong>Back end</strong></p>
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/codeigniter-%7623B124.svg?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
@@ -34,19 +34,19 @@
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" alt="Express">
   </p>
     
-<h4><strong>Databases</strong></h4>
+<p><strong>Databases</strong></p>
   <p align="start">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   </p>
       
-<h4><strong>Others</strong></h4>
+<p><strong>Others</strong></p>
  <p>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/vs%code-007ACC?style=for-the-badge&amp;logo=Visual Studio Code&amp;logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/vs%code-007ACC?style=for-the-badge&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" alt="VS Code">
  </p>
 
 <br><br>
