@@ -4,6 +4,7 @@
 - 🌱 Passionate and obsessed with design and front-end but able to perform back-end tasks
 <br>
 <p align="center">
+  <strong>"NEVER GIVE UP - PRACTISE MAKES PERFECT"<strong>
   <img src="./img/izuku.gif" alt="Izuku Midoria"/>
 </p>
 
@@ -50,7 +51,10 @@
   <img src="https://img.shields.io/badge/sublime%20text-FF9800?style=for-the-badge&amp;logo=sublimetext&amp;logoColor=white" alt="Sublime text">
  </p>
 
-<br><br>
+********************************************
+
+[![Nick-Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nick-Kevin&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+********************************************
 
 ## You can contact and follow me on
 <p align="start">
