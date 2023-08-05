@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&amp;logo=MUI&amp;logoColor=white" alt="Material UI">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router">
@@ -30,7 +31,8 @@
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/codeigniter-%7623B124.svg?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
-    <img src="https://img.shields.io/badge/node.js-#339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&amp;logo=Express&amp;logoColor=white" alt="Express">
   </p>
     
 <h4><strong>Databases</strong></h4>
