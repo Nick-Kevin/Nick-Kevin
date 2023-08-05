@@ -29,6 +29,7 @@
 ##### Back end
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/codeigniter-%7623B124.svg?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
   </p>
     
 #### Databases
