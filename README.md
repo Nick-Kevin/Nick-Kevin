@@ -30,6 +30,7 @@
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/codeigniter-%7623B124.svg?style=for-the-badge&amp;logo=CodeIgniter&amp;logoColor=white" alt="CodeIgniter">
+    <img src="https://img.shields.io/badge/node.js-#339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" alt="Node.js">
   </p>
     
 <h4><strong>Databases</strong></h4>
