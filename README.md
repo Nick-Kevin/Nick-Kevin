@@ -10,13 +10,13 @@
 ## Tools and technologies
 <br>
 
-#### UI/UX Design
+##### UI/UX Design
   <p>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
   </p>
 <br>
 
-#### Front end
+##### Front end
   <p align="start">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
@@ -28,7 +28,7 @@
   </p>
   <br>
 
-#### Back end
+##### Back end
   <p align="start">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
   </p>
@@ -41,7 +41,7 @@
   </p>
   <br>
       
-#### Others
+##### Others
  <p>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
