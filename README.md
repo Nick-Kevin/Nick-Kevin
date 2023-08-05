@@ -5,8 +5,8 @@
 - 🌱 Passionate and obsessed with design and front-end but able to perform back-end tasks
 <br>
 <p align="center">
-  <strong>"NEVER GIVE UP - PRACTISE MAKES PERFECT"<strong>
   <img src="./img/izuku.gif" alt="Izuku Midoria"/>
+  <p align="center"><strong>"NEVER GIVE UP - PRACTISE MAKES PERFECT"<strong></p>
 </p>
 
 ********************************************
