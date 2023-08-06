@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nick+Kevin!)](https://git.io/typing-svg)
-********************************************
+***
 # React | Javascript | Codeiginter | Front end Developper
 - 🔭 Learning developer however have some experience designing and bulding scalable web applications
 - 🌱 Passionate and obsessed with design and front-end but able to perform back-end tasks
@@ -9,7 +9,7 @@
   <p align="center"><strong>"NEVER GIVE UP - PRACTISE MAKES PERFECT"<strong></p>
 </p>
 
-********************************************
+***
 ## Tools and technologies
 
 <p><strong>UI/UX Design</strong></p>
@@ -53,11 +53,11 @@
   <img src="https://img.shields.io/badge/sublime%20text-FF9800?style=for-the-badge&amp;logo=sublimetext&amp;logoColor=white" alt="Sublime text">
  </p>
 
-********************************************
+***
 
 ![Nick-Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nick-Kevin&theme=github-compact&area=true&bg_color=000000&color=FFFFFF&title_color=FFFFFF)
 
-********************************************
+***
 
 ## You can contact and follow me on
 <p align="start">
@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/nick-kevin-razafinirina-988b34248"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="48" height="48" alt="linkedin"/></a>
 </p>
 
-********************************************
+***
 ## Visitors:
 <img src="https://profile-counter.glitch.me/Nick-Kevin/count.svg">
 <div> 
@@ -78,4 +78,4 @@
 <br>
 Last Edited on: 05/08/2023
 
-********************************************
+***
